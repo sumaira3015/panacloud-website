@@ -1,0 +1,1 @@
+static single page website
